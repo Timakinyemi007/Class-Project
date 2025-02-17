@@ -1,0 +1,15 @@
+body{
+    background-color:pink
+}
+h1{
+    color: black;
+}
+img {
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+a {color: white;
+font-size: 36px;
+text-decoration: none;
+}
